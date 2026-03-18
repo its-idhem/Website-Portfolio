@@ -25,7 +25,7 @@ A simple directory of the websites and web applications I have built and hosted 
 * **[Solar System](https://sisschoolguy.github.io/solar-system/)** - A simple 3D solar system diagram 
 * **[Solar Wind Speed Trends Over the Last 5 Years](https://sisschoolguy.github.io/Solar-Wind-Speed-Trends-Over-the-Last-5-Years/)** - Made for a class, basically a information webpage about solar wind speed. 
 * **[Physics Notes](https://sisschoolguy.github.io/Physics-0625-25/)** - Physics notes I needed for my Secondary 2 EOY exams, that I could easily share, and remember by making this. 
-* **[To-Do List](link)** - The first website I have ever made. Very proud of it because it has TWO games in it??? It took me like a month or 2 to make. 
+* **[Earth Day](https://sisschoolguy.github.io/sissjearthday-website/)** - The first website I have ever made. Very proud of it because it has TWO games in it??? It took me like a month or 2 to make. 
 
 ---
 *Created by [Mehdi Rahimli](https://github.com/its-idhem) - 2026*
