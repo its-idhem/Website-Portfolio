@@ -15,7 +15,7 @@ A simple directory of the websites and web applications I have built and hosted 
 * **Tech used:** HTML5, Tailwind CSS, Vanilla JavaScript.
 * **Source Code:** [View Repo](https://github.com/its-idhem/Nebula-Genesis)
 
-### 3. [IGCSE CompSci Lab](https://its-idhem.github.io/IGCSE-CompSci)
+### 3. [IGCSE CompSci Lab](https://its-idhem.github.io/IGCSE-CompSci-Lab/)
 * **What it is:** Study tool with a Pseudocode IDE, Logic-Gate sim, and Flowchart Sim
 * **Tech used:**  HTML5, CSS3, and Vanilla JavaScript
 * **Source Code:** [View Repo](https://github.com/its-idhem/IGCSE-CompSci-Lab)
