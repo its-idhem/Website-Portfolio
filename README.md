@@ -34,4 +34,4 @@ A simple directory of the websites and web applications I have built and hosted 
 * **[Earth Day](https://sisschoolguy.github.io/sissjearthday-website/)** - The first website I have ever made. Very proud of it because it has TWO games in it??? It took me like a month or 2 to make. 
 
 ---
-*Created by [Mehdi Rahimli](https://github.com/its-idhem) - 2026*
+*Created by [its-idhem](https://github.com/its-idhem) - 2026*
