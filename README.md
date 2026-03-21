@@ -15,11 +15,17 @@ A simple directory of the websites and web applications I have built and hosted 
 * **Tech used:** HTML5, Tailwind CSS, Vanilla JavaScript.
 * **Source Code:** [View Repo](https://github.com/its-idhem/Nebula-Genesis)
 
+### 3. [IGCSE CompSci Lab](https://its-idhem.github.io/IGCSE-CompSci)
+* **What it is:** Study tool with a Pseudocode IDE, Logic-Gate sim, and Flowchart Sim
+* **Tech used:**  HTML5, CSS3, and Vanilla JavaScript
+* **Source Code:** [View Repo](https://github.com/its-idhem/IGCSE-CompSci-Lab)
+
 ---
 
 ## All Projects
 * **[Spavius](https://its-idhem.github.io/Spavius/study.html)** - An AI study tool webstie. 
-* **[Nebula Genesis](https://its-idhem.github.io/Nebula-Genesis/)** - A physics simulation of the life cycle of a Nebula. 
+* **[Nebula Genesis](https://its-idhem.github.io/Nebula-Genesis/)** - A physics simulation of the life cycle of a Nebula.
+* **[View Repo](https://github.com/its-idhem/IGCSE-CompSci-Lab)** - Probably the best website I have made so far, the best IGCSE comp sci tool (maybe not)
 * **[TowerUp](https://its-idhem.github.io/TowerUp/)** - A sand tetris game. 
 * **[Additional Mathmatics Simulation](https://sisschoolguy.github.io/AddMathsSim/)** - Physics simlation of a ball going down a slide made for a math class. 
 * **[Solar System](https://sisschoolguy.github.io/solar-system/)** - A simple 3D solar system diagram 
